@@ -1,0 +1,141 @@
+@media only screen and (max-width:1366px) {
+	
+}
+@media only screen and (max-width:1199px) {
+	.irs-header-top-bar p {
+		font-size: 12px;
+	}
+	.irs-social a i {
+		margin-left: 8px;
+	}
+	.irs-header-nav .irs-menu-btn {
+		padding: 12px 15px;
+		margin-top: 0;
+	}
+	.hero-two {
+		padding-left: ;
+	}
+	.nav>li>a {
+	    padding: 10px 9px;
+	}
+	.irs-newsletter-field {
+		padding-bottom: 70px;
+	}
+	.irs-main-slider .carousel-indicators {
+		left: 50%;
+	}
+	.hero h1 {
+		margin-top: 0;
+	}
+}
+@media only screen and (max-width:991px){
+	.irs-center-1 {
+		float: none;
+		text-align: center;
+	}
+	.navbar {
+		margin-bottom: 10px;
+	}
+	.nav>li>a {
+	    padding: 10px 8px;
+	}
+	.navbar-brand img {
+		width: 140px;
+		height: auto;
+	}
+	.irs-log-reg {
+		width: 135px;
+		margin: 0 auto;
+		margin-bottom: 20px;
+	}
+	.irs-testimonial-field img {
+		display: none;
+	}
+	.irs-divider-field {
+		text-align: center;
+	}
+
+}
+
+@media only screen and (max-width:979px) {
+	.irs-main-slider-two .hero {
+		top: 60%;
+	}
+	.hero span {
+		font-size: 16px;
+	}
+	.hero h1 {
+		font-size: 36px;
+	}
+}
+@media only screen and (max-width:938px) {
+	.hero h1 {
+		font-size: 28px;
+		line-height: 34px;
+	}
+}
+@media only screen and (max-width:767px) {
+	.irs-center-2 {
+		text-align: center;
+		float: none;
+	}
+	.navbar-nav {
+		height: 280px;
+	}
+	.ire-header-two .nav {
+		background: #ffffff;
+	}
+	.ire-header-two .irs-navbar .navbar-nav > li > a {
+		color: #535353;
+	}
+	.navbar-default .navbar-nav .open .dropdown-menu>li>a:hover {
+		padding-left: 20px;	}
+	.irs-navbar {
+		margin-top: 10px;
+	}
+	.fade-carousel {
+	    height: 65vh;
+	}
+	.fade-carousel .carousel-inner .item {
+		height: 65vh;
+	}
+
+}
+@media only screen and (max-width:740px) {
+	.hero h1 {
+		font-size: 24px;
+		line-height: 30px;
+	}
+}
+@media only screen and (max-width:600px) {
+	.irs-accordion-two .panel-title a {
+		font-size: 12px;
+	}
+}
+@media only screen and (max-width:640px) {
+	.irs-main-slider .irs-big-btn {
+		display: none;
+	}
+}
+@media only screen and (max-width:480px) {
+	.hero {
+		display: none;
+	}
+	.fade-carousel {
+	    height: 50vh;
+	}
+	.fade-carousel .carousel-inner .item {
+		height: 50vh;
+	}
+	.irs-comment-item-right {
+		margin-left: 0;
+	}
+	.irs-inner-heading {
+		padding: 20px 30px;
+	}
+
+
+}
+@media only screen and (max-width:350px) {
+
+}
